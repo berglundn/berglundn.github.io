@@ -6,23 +6,5 @@ body{
     background-color: white;
     margin-left: 33%;
     margin-right: 33%;
-    margin-top: 40px;
     width: 33%;
-}
-
-.navbar {
-    position: fixed;
-    margin-top: auto;
-    top: 0;
-    background-color: black; /* For background */
-    color: white; /* For text */
-    padding: 10px;
-}
-
-.navbar a{
-    text-align: center;
-}
-
-.navbar a:hover{
-    background-color: gray;
 }
